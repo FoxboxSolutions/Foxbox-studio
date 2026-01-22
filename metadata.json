@@ -1,0 +1,7 @@
+{
+  "name": "Foxbox Solutions AI Studio",
+  "description": "A high-end, cinematic AI image generation platform designed for professional creators, featuring multiple Gemini models and advanced image-to-image capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
